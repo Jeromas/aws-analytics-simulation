@@ -38,7 +38,7 @@ This version includes:
 ## 🧠 Author
 
 **Alphonso J. Saiewane**  
-*Data Scientist | AI Prompt Engineer | International Trade Specialist*  
+*Data Scientist | AI Prompt Engineer | International Trade Expert*  
 📧 alphonso.saiewane@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/alphonso-jeromas-saiewane-811b2b24b)
 
